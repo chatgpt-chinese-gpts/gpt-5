@@ -7,7 +7,7 @@
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 
-ChatGPT 中文版：[chat.lanjing.pro](https://chat.lanjing.pro)   
+ChatGPT 中文版：[chat.lanjingai.org](https://chat.lanjingai.org)   
 ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 ---
