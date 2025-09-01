@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内直连指南（支持 GPT-4、GPT-5、GPT-4o，和 GPT-o3，无需翻墙）【2025最新更新】
 
-> **更新时间： 2025/08/06**                          
+> **更新时间： 2025/09/01**                          
 
 本文提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://xsimplechat.com)**，提升工作效率。
 
